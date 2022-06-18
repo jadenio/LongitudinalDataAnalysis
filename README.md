@@ -1,6 +1,6 @@
 # Longitudinal Data Analysis
 
-This project concerns the analysis of renal transplant outcome data.
+This project concerns the analysis of renal transplant outcome data. All analyses are conducted in the SAS programming language.
 
 A variety of analyses are peformed on the data:
 1. Analysis of Continuous Outcomes
